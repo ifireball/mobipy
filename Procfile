@@ -1,1 +1,1 @@
-web: sanic web.server.app
+web: python -m web.server
